@@ -5,9 +5,9 @@
     <title>Index</title>
 </head>
 <body>
-<h2>Index Jsp file</h2>
+<h2>Welcome</h2>
 <li><a href="list">List Screen</a></li>
-<li><a href="api/list">List in JSON</a></li>
+<li><a href="api/users">User list in JSON format</a></li>
 
 </body>
 </html>

@@ -5,6 +5,6 @@
     <title>List</title>
 </head>
 <body>
-<h2> List jsp page</h2>
+<h2> User List</h2>
 </body>
 </html>
